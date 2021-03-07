@@ -8,6 +8,7 @@
     xmlns:xctk1="http://schemas.xceed.com/wpf/xaml/toolkit"
     mc:Ignorable="d"
         Title="MainWindow" Height="450" Width="800" Closing="Window_Closing">
+    
 
     <Grid>
         <Grid.RowDefinitions>
@@ -19,6 +20,7 @@
                 <MenuItem Header="_File">
                     <!-- <MenuItem Header="_Open List" />
                     <MenuItem Header="_Save List" />-->
+                    <MenuItem Header="Reset Settings" Click="MenuItem_Click"/>
                     <Separator />
                     <MenuItem x:Name="men_Exit" Header="_Exit" Click="Men_Exit_Click" />
                 </MenuItem>
@@ -95,21 +97,23 @@
         <Label Content="Overlay Background Color" Margin="0,0,273,13" Height="25" VerticalAlignment="Bottom" Grid.RowSpan="2" HorizontalAlignment="Right" Width="149"/>
         <xctk1:ColorPicker x:Name="background_Color" ShowStandardColors="False" ColorMode="ColorCanvas" SelectedColor="#8C33363F" Margin="0,0,147,14" DisplayColorAndName="True" AvailableColorsSortingMode="HueSaturationBrightness" SelectedColorChanged="Background_Color_SelectedColorChanged" Height="23" VerticalAlignment="Bottom" HorizontalAlignment="Right" Width="121" Grid.RowSpan="2" />
         <Button x:Name="btn_Screens" Content="Switch Screens" Margin="0,0,437,14" Click="Btn_Screens_Click" Grid.RowSpan="2" HorizontalAlignment="Right" Width="95" Height="20" VerticalAlignment="Bottom"/>
-        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="670,5,0,0" Height="25" ToolTip="sDoddler's Twitter (I don't post much)">
+        <Button x:Name="btn_Twitter1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="696,5,0,0" Height="25" ToolTip="sDoddler's Twitter (I don't post much)" Click="Btn_Twitter1_Click">
             <StackPanel>
                 <Image x:Name="btn_Twitter" Source="/images/twitter-128.png" />
             </StackPanel>
         </Button>
-        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="700,5,0,0" Height="25" ToolTip="ValheimToDo Github">
+        <Button x:Name="btn_Github1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="726,5,0,0" Height="25" ToolTip="ValheimToDo Github" Click="Btn_Github1_Click">
             <StackPanel>
                 <Image x:Name="btn_Github" Source="/images/Github-120.png" />
             </StackPanel>
         </Button>
-        <Button HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="730,5,0,0" Height="25" ToolTip="Donate Doge to Doddler (click to copy wallet Code to clipboard)">
+        <Button x:Name="btn_Dogecoin1" HorizontalAlignment="Left" VerticalAlignment="Top" Width="25" Margin="756,5,0,0" Height="25" ToolTip="Donate Doge to Doddler (click to copy wallet Code to clipboard)" Click="Btn_Dogecoin1_Click">
             <StackPanel>
                 <Image x:Name="btn_Dogecoin" Source="/images/Doge128.png" />
             </StackPanel>
         </Button>
+        <Button x:Name="btn_Clear" Content="Clear All items" HorizontalAlignment="Left" Width="90" Margin="10,0,0,14" ToolTip="Clear All Item" Grid.RowSpan="2" Height="20" VerticalAlignment="Bottom" Click="Btn_Delete_Click"/>
+
 
     </Grid>
 

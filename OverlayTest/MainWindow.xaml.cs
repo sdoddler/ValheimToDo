@@ -99,6 +99,7 @@ namespace ValheimToDo
                             {
                                 Int32.TryParse(split[0], out int a);
 
+                                if (a != 0)
                                 curItem.Recipe.Add(new ValComponent(false, split[1], a));
                             }
                             else
@@ -184,7 +185,11 @@ namespace ValheimToDo
         {
             SaveSettings();
             if (overlayRunning)
+            {
+                example.Window.Hide();
                 example.Window.Dispose();
+            }
+           
         }
 
         private void cp_SelectedColorChanged_1(object sender, RoutedPropertyChangedEventArgs<Color?> e)
@@ -225,6 +230,7 @@ namespace ValheimToDo
                 }
             }
 
+            _sharedData.monitorHeight = curScreen.WorkingArea.Height;
             _sharedData.monitorOffsetX = curScreen.WorkingArea.X;
             _sharedData.monitorOffsetY = curScreen.WorkingArea.Y;
 
@@ -244,7 +250,8 @@ namespace ValheimToDo
             
             ValheimToDo.Properties.Settings.Default.note = txt_Note.Text;
             ValheimToDo.Properties.Settings.Default.screen = curScreen.DeviceName;
-            ValheimToDo.Properties.Settings.Default.textcolor = ColorExtension.ToDrawingColor(colorPicker.SelectedColor.Value);
+
+            ValheimToDo.Properties.Settings.Default.textcolor =  ColorExtension.ToDrawingColor(colorPicker.SelectedColor.Value);
 
 
             ValheimToDo.Properties.Settings.Default.SavedToDos = _sharedData.toDos;
@@ -254,29 +261,99 @@ namespace ValheimToDo
 
         private void LoadSettings()
         {
-            txt_Amount.Text = ValheimToDo.Properties.Settings.Default.amount.ToString();
-            txt_Note.Text = ValheimToDo.Properties.Settings.Default.note;
-            Debug.WriteLine(ValheimToDo.Properties.Settings.Default.item);
+
+            string defAmount = ValheimToDo.Properties.Settings.Default.amount.ToString();
+            string defNote = ValheimToDo.Properties.Settings.Default.note;
+            string defTest = ValheimToDo.Properties.Settings.Default.item;
+            Color defColor = ColorExtension.ToMediaColor(ValheimToDo.Properties.Settings.Default.textcolor);
+            Color defBkColor = ColorExtension.ToMediaColor(ValheimToDo.Properties.Settings.Default.backgroundcolor);
+
+            if (defAmount == null) defAmount = "1";
+            if (defNote == null) defNote = "";
+            if (defTest == null) defTest = "Club";
+            if (defColor == null) defColor = Colors.LimeGreen;
+            if (defBkColor == null) defBkColor = Color.FromArgb(130, 0x33, 0x36, 0x3F);
+
+            txt_Amount.Text = defAmount;
+
+            txt_Note.Text = defNote;
             
-                cbo_Test.Text = ValheimToDo.Properties.Settings.Default.item;
+                cbo_Test.Text = defTest;
             
 
             if (Screen.AllScreens.FirstOrDefault(x => x.DeviceName == ValheimToDo.Properties.Settings.Default.screen) != null)
             curScreen = Screen.AllScreens.FirstOrDefault(x => x.DeviceName == ValheimToDo.Properties.Settings.Default.screen);
 
+            _sharedData.monitorHeight = curScreen.WorkingArea.Height;
             _sharedData.monitorOffsetX = curScreen.WorkingArea.X;
             _sharedData.monitorOffsetY = curScreen.WorkingArea.Y;
 
-            colorPicker.SelectedColor = ColorExtension.ToMediaColor(ValheimToDo.Properties.Settings.Default.textcolor);
-            background_Color.SelectedColor = ColorExtension.ToMediaColor(ValheimToDo.Properties.Settings.Default.backgroundcolor);
+            colorPicker.SelectedColor = defColor; 
+            background_Color.SelectedColor = defBkColor;
 
             if (ValheimToDo.Properties.Settings.Default.SavedToDos != null)
                 _sharedData.toDos = ValheimToDo.Properties.Settings.Default.SavedToDos;
         }
 
+        private void LoadDefaults()
+        {
+            txt_Amount.Text = "1";
+            txt_Note.Text = "";
+            cbo_Test.Text = "Club";
+            curScreen = Screen.PrimaryScreen;
+
+            _sharedData.monitorHeight = curScreen.WorkingArea.Height;
+            _sharedData.monitorOffsetX = curScreen.WorkingArea.X;
+            _sharedData.monitorOffsetY = curScreen.WorkingArea.Y;
+
+            background_Color.SelectedColor = Color.FromArgb(130, 0x33, 0x36, 0x3F);
+            _sharedData.bkColor = background_Color.SelectedColor;
+            colorPicker.SelectedColor =  Colors.LimeGreen;
+
+            if(example!=null)
+            example.RefreshWindowLocation();
+
+            SaveSettings();
+        }
+
         private void Men_Exit_Click(object sender, RoutedEventArgs e)
         {
             this.Close();
+        }
+
+        private void Btn_Twitter1_Click(object sender, RoutedEventArgs e)
+        {
+            WebsiteOpen("https://twitter.com/sdoddler");
+        }
+
+        private void WebsiteOpen(string url)
+        {
+            var psi = new ProcessStartInfo
+            {
+                FileName = url,
+                UseShellExecute = true
+            };
+            Process.Start(psi);
+        }
+
+        private void Btn_Github1_Click(object sender, RoutedEventArgs e)
+        {
+            WebsiteOpen("https://github.com/sdoddler/ValheimToDo");
+        }
+
+        private void Btn_Dogecoin1_Click(object sender, RoutedEventArgs e)
+        {
+            System.Windows.Clipboard.SetText("DNxLSfMBRfwRKgJHktQ881i4AZK1Guztm8");
+        }
+
+        private void Btn_Delete_Click(object sender, RoutedEventArgs e)
+        {
+            _sharedData.toDos.Clear();
+        }
+
+        private void MenuItem_Click(object sender, RoutedEventArgs e)
+        {
+            LoadDefaults();
         }
     }
     

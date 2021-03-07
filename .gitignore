@@ -1,0 +1,22 @@
+OverlayTest/bin/
+OverlayTest/obj/
+.vs/
+packages/
+*.compressed
+OverlayTest/obj/Debug/ValheimToDo_MarkupCompile.cache
+OverlayTest/obj/Debug/ValheimToDo_Content.g.i.cs
+OverlayTest/obj/Debug/ValheimToDo.Properties.Resources.resources
+OverlayTest/obj/Debug/ValheimToDo.pdb
+OverlayTest/obj/Debug/ValheimToDo.g.resources
+OverlayTest/obj/Debug/ValheimToDo.exe
+OverlayTest/obj/Debug/ValheimToDo.csprojAssemblyReference.cache
+OverlayTest/obj/Debug/ValheimToDo.csproj.FileListAbsolute.txt
+OverlayTest/obj/Debug/ValheimToDo.csproj.CoreCompileInputs.cache
+OverlayTest/obj/Debug/MainWindow.g.i.cs
+OverlayTest/obj/Debug/MainWindow.g.cs
+OverlayTest/obj/Debug/MainWindow.baml
+OverlayTest/obj/Debug/DesignTimeResolveAssemblyReferences.cache
+OverlayTest/bin/Debug/ValheimToDo.pdb
+OverlayTest/bin/Debug/ValheimToDo.exe
+.vs/Valheim ToDo/v16/Server/sqlite3/storage.ide
+.vs/Valheim ToDo/v16/.suo

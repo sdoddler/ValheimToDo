@@ -8,6 +8,6 @@
 // </auto-generated>
 //------------------------------------------------------------------------------
 
-[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("valicon.ico")]
+[assembly: System.Windows.Resources.AssemblyAssociatedContentFileAttribute("images/delicon256.png")]
 
 

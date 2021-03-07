@@ -260,3 +260,39 @@ Building Structures,Header,,,,
 >Wood wall,2 Wood,,,,
 >Wood wall 26°,2 Wood,,,,
 >Wood wall half,1 Wood,,,,
+Misc Structures,Header,,,
+>Bonfire,1 Surtling core,5 Ancient bark,5 Core wood,5 Fine wood
+>Campfire,5 Stone,2 Wood
+>Cart,20 Wood,10 Bronze nails
+>Hearth,15 Stone
+>Karve,30 Fine wood,10 Deer Hide,20 Resin,80 Bronze Nails
+>Longship,100 Iron nails,10 Deer hide,40 Fine wood,40 Ancient bark
+>Portal,10 Greydwarf eye,20 Fine wood,2 Surtling Core
+>Raft,20 Wood,6 Leather scraps,6 Resin
+>Ward,5 Fine wood,5 greydwarf eye,1 surtling core
+Furniture,Header,,,
+>Bed,8 Wood
+>Bench,6 Fine wood
+>Black banner,2 Fine wood,6 Leather scraps,4 Coal
+>Blue banner,2 Fine wood,6 Leather Scraps,4 Blueberries
+>Chair,4 Finewood
+>Chest,10 Wood
+>Deer rug,4 Deer hide
+>Dragon bed,40 Fine wood,7 Deer hide,4 Wolf pelt,10 Feathers,15 Iron Nails
+>Green Banner,2 Fine wood,6 Leather scraps,1 Guck
+>Hanging brazier,5 Bronze,2 Coal,1 Chain
+>Item stand,4 Fine wood,1 Bronze Nails
+>Lox rug,4 Lox pelt
+>Personal Chest,10 Fine wood,8 Iron
+>Raven Throne,20 Fine Wood,10 Iron Nails
+>Red banner,2 Fine wood,6 Leather scraps,1 Bloodbag
+>Reinforced Chest,10 Finewood,2 Iron
+>Sconce,2 Wood,2 Copper,2 Resin
+>Sign,1 Coal,2 Wood
+>Standing Green Torch,2 Iron,2 Guck
+>Standing Iron Torch,2 Iron,2 Guck
+>Standing Wood Torch,2 Resin,2 Wood
+>Stool,4 Fine wood
+>Table,6 Fine wood
+>White and Red Striped banner,2 Fine wood,6 Leather scraps,4 Raspberries
+>Wolf rug,4 Wolf pelt

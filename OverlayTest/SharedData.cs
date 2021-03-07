@@ -14,6 +14,9 @@ namespace ValheimToDo
     {
         public ObservableCollection<ToDo> toDos = new ObservableCollection<ToDo>();
         public Color? bkColor = Color.FromArgb(130, 0x33, 0x36, 0x3F);
+
+        public int monitorHeight;
+
         public int monitorOffsetX = 0;
         public int monitorOffsetY = 0;
         public int userOffsetX = 0;

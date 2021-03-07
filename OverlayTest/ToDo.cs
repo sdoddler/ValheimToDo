@@ -21,6 +21,8 @@ namespace ValheimToDo
 
         public List<ValComponent> Components { get; set; }
 
+        public ToDo() { }
+
             public ToDo(bool isSelected, int amount, string title,  string location, System.Drawing.Color color, List<ValComponent> components = null)
             {
                 this.IsSelected = isSelected;

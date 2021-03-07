@@ -37,7 +37,7 @@ namespace ValheimToDo
 
 
 
-            Window = new GraphicsWindow(0 + _sharedData.monitorOffsetX + _sharedData.userOffsetX, 100 + _sharedData.monitorOffsetY + _sharedData.userOffsetY, 500, 600, gfx)
+            Window = new GraphicsWindow(0 + _sharedData.monitorOffsetX + _sharedData.userOffsetX,  (int)Math.Round(_sharedData.monitorHeight/10f) + _sharedData.monitorOffsetY + _sharedData.userOffsetY, 500, 600, gfx)
             {
                 FPS = 60,
                 IsTopmost = true,
@@ -136,6 +136,7 @@ namespace ValheimToDo
                         int skip = 0;
                         foreach (ValComponent c in t.Components)
                         {
+                            if (c.IsSelected) continue;
                             gfx.DrawText(_fonts["consolas"], _fonts["consolas"].FontSize, _brushes[color], 20 + indent + incX, 40 + inc, c.Amount + " x " + c.Title);
                             incX += 175;
                             skip++;
@@ -185,7 +186,8 @@ namespace ValheimToDo
 
         internal void RefreshWindowLocation()
         {
-            Window.Move(0 + _sharedData.monitorOffsetX + _sharedData.userOffsetX, 100 + _sharedData.monitorOffsetY + _sharedData.userOffsetY);
+
+            Window.Move(0 + _sharedData.monitorOffsetX + _sharedData.userOffsetX, (int)Math.Round(_sharedData.monitorHeight / 10f) + _sharedData.monitorOffsetY + _sharedData.userOffsetY);
         }
         #endregion
     }
