@@ -1,0 +1,95 @@
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\OverlayTest.exe.config
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\OverlayTest.exe
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\OverlayTest.pdb
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\GameOverlay.dll
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.dll
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\GameOverlay.xml
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.pdb
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csprojAssemblyReference.cache
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\MainWindow.g.cs
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\App.g.cs
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest_MarkupCompile.cache
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest_MarkupCompile.lref
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\MainWindow.baml
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.g.resources
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.Properties.Resources.resources
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.GenerateResource.cache
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CoreCompileInputs.cache
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CopyComplete
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.exe
+C:\Users\stephen.dodd\source\repos\OverlayTest\OverlayTest\obj\Debug\OverlayTest.pdb
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\OverlayTest.exe.config
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\OverlayTest.exe
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\OverlayTest.pdb
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\GameOverlay.dll
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.dll
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\GameOverlay.xml
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.pdb
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csprojAssemblyReference.cache
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\MainWindow.g.cs
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\App.g.cs
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest_MarkupCompile.cache
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest_MarkupCompile.lref
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\MainWindow.baml
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.g.resources
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.Properties.Resources.resources
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.GenerateResource.cache
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CoreCompileInputs.cache
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CopyComplete
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.exe
+C:\Users\stephen.dodd\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.pdb
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\GameOverlay.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\GameOverlay.xml
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.pdb
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.pdb
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.Direct2D1.xml
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.pdb
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\SharpDX.DXGI.xml
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csprojAssemblyReference.cache
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\MainWindow.g.cs
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\App.g.cs
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\MainWindow.baml
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.GenerateResource.cache
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CoreCompileInputs.cache
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\OverlayTest.csproj.CopyComplete
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo_MarkupCompile.cache
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo_MarkupCompile.lref
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ValheimToDo.exe.config
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ValheimToDo.exe
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ValheimToDo.pdb
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\Xceed.Wpf.AvalonDock.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Aero.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.Metro.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\Xceed.Wpf.AvalonDock.Themes.VS2010.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\Xceed.Wpf.Toolkit.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\cs-CZ\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\de\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\es\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\fr\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\hu\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\it\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ja-JP\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\pt-BR\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ro\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\ru\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\sv\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\bin\Debug\zh-Hans\Xceed.Wpf.AvalonDock.resources.dll
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo.g.resources
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo.Properties.Resources.resources
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo.exe
+C:\Users\Doddler\OneDrive - Department of Education\Github\ValheimToDo\OverlayTest\OverlayTest\obj\Debug\ValheimToDo.pdb
