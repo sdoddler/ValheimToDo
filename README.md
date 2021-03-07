@@ -1,6 +1,6 @@
 
 # _Valheim ToDo_
-Valheim ToDo is a small program that allows you to create a list of things to do, in the game Valheim. It has a full (I think) list of the items in the game and their resources. You can choose an amount of items an it will calculate the requireed resources, or you can just put in notes to do. This list can then be overlayed over the top of the game for easy reference or anyone that only has 1 monitor.
+Valheim ToDo is a small program that allows you to create a list of things to do, in the game Valheim. It has a full (I think) list of the items in the game and their resources. You can choose an amount of items an it will calculate the required resources, or you can just put in notes to do. This list can then be overlayed over the top of the game for easy reference or anyone that only has 1 monitor.
 
 ### Initial release // Features
 I banged this out over the weekend and ran out of time to add all the features that I wanted to. Currently you can:
