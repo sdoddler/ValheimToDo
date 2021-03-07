@@ -1,7 +1,7 @@
-OverlayTest/bin/
-OverlayTest/obj/
-.vs/
-packages/
+/OverlayTest/bin
+/OverlayTest/obj
+/.vs
+/packages
 *.compressed
 OverlayTest/obj/Debug/ValheimToDo_MarkupCompile.cache
 OverlayTest/obj/Debug/ValheimToDo_Content.g.i.cs
